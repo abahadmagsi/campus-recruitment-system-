@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "725480180719",
+    "project_id": "dotrecruitmentapp",
+    "storage_bucket": "dotrecruitmentapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725480180719:android:93341f3d4c71c36580841a",
+        "android_client_info": {
+          "package_name": "com.dotrecruitment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725480180719-gthirsrh2hbkqkvtjfkdptpal0vttu4n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoInsxRqFwIs7RUoBtgF7T76enAyjxkAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725480180719-gthirsrh2hbkqkvtjfkdptpal0vttu4n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
